@@ -6,4 +6,4 @@ This ia a simple Bootstrap Website that demonstrates the power of Bootstrap CSS 
 
 ---
 
-![Website ScreenShot](./assets/screenshots/pagescreenshot.png)
+![Website ScreenShot](./assets/screenshots/screenshot.png)
